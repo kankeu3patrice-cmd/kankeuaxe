@@ -1,0 +1,1 @@
+module.exports = {\n  reactStrictMode: true,\n  images: {\n    domains: ['example.com'], // Allow images from external domains\n  },\n};\n
